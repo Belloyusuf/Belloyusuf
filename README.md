@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <h1>My Stats</h1>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Belloyusuf)
 
-<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+![Alt text]<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 
 
 <p>
