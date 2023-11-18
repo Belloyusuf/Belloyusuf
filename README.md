@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 <h1> Languages</h1>
+#E23237
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belloyusuf)
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
