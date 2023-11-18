@@ -17,11 +17,11 @@ Here are some ideas to get you started:
  - 😄 Pronouns: He
  - ⚡ Fun fact: Besides coding, I have a passion for reading and found a way to subtly integrate it into this project!"
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Belloyusuf)
+![github stats] https://github-readme-stats.vercel.app/api?username=Belloyusuf
 
 
 <h1> Languages</h1>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belloyusuf)
+! Top languages https://github-readme-stats.vercel.app/api/top-langs/?username=Belloyusuf
 
 <img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
 
