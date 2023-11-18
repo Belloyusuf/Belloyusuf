@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <h1> Languages</h1>
 https://img.shields.io/github/stars/:user/:repo
+<img src="https://img.shields.io/badge/BadgeText-HexColor?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belloyusuf)
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
