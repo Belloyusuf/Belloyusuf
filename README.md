@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: 
 
+
+
+<h1> Languages</h1>h1>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" />
