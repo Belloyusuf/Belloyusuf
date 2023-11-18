@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Belloyusuf)
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Django-DD0031?logo=angular&logoColor=white&style=for-the-badge)
+![Angular](https://img.shields.io/badge/Django-DD0031?logo=django&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
