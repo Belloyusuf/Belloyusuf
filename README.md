@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Rest](https://img.shields.io/badge/Rest-CC6699?logo=rest&logoColor=white&style=for-the-badge)
-![Python3](https://img.shields.io/badge/python3-663399?logo=gatsby&logoColor=white&style=for-the-badge)
+![Python3](https://img.shields.io/badge/python-663399?logo=gatsby&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-E10098?logo=msql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite%23-239120?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
