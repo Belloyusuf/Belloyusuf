@@ -8,14 +8,14 @@ Here are some ideas to get you started:
 -->
 
 
- 🔭 I’m currently working on Django project
+ 🔭 I’m currently working on Prison management system
  🌱 I’m currently learning JavaScript
  👯 I’m looking to collaborate on Django project
- 🤔 I’m looking for help with ...
+ <!-- 🤔 I’m looking for help with -->
  💬 Ask me about Django
  📫 How to reach me: belloyusuf1997@gmail.com
  😄 Pronouns: He
- ⚡ Fun fact: 
+ ⚡ Fun fact: Besides coding, I have a passion for reading and found a way to subtly integrate it into this project!"
 
 
 
