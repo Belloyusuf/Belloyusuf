@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![Rest](https://img.shields.io/badge/Rest-CC6699?logo=rest&logoColor=white&style=for-the-badge)
 ![Python3](https://img.shields.io/badge/python3-663399?logo=gatsby&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-E10098?logo=msql&logoColor=white&style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite%23-239120?logo=c-sqlite&logoColor=white&style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite%23-239120?logo=sqlite&logoColor=white&style=for-the-badge)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 
 
