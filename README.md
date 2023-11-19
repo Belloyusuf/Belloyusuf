@@ -19,13 +19,22 @@ Here are some ideas to get you started:
  - ⚡ Fun fact: Besides coding, I have a passion for reading and found a way to subtly integrate it into this project!"
 
 # 🏆 GitHub Achievements 🏆
-<br>
-![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)<img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px">
-![Galaxy Brain](/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png)<img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="60px">
-![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)<img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px">
-![GitHub Sponsors](https://github.com/sponsors)<img src="/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="60px">
 
-</br>
+<br>
+
+<div align="center">
+  <picture>
+  <!-- TODO I couldn't figure out how to properly add local links in place of these images. These should be fixed later. - @seanpm2001 !-->
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172940015-d9d072e7-c47d-4ddd-83f6-8e7717a721b8.png">
+    <img src="https://user-images.githubusercontent.com/65187002/172940773-7ef23b63-3356-4634-9e52-34f2676e2854.png">
+  </picture><br>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/65187002/172941127-4061fac1-736b-4c24-b7ea-c210b3578cc5.png">
+    <img width="50%" src="https://user-images.githubusercontent.com/65187002/172941149-31258408-bfc3-496a-8a58-e34794b21813.png">
+  </picture>
+</div>
+
+<br>
 
 # My GitHub Stats
 
