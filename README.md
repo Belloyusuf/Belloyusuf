@@ -1,4 +1,4 @@
-Hi there 👋 I'm an IT Student with passion of Software Development . I'm a confident communicator, I integrate easily into teams, though I am equally happy to work alone. I am a quick, logical thinker with an analytical mind and enjoy the stimulation of a challenge. I like variety and am adaptable in different situations, to which I respond with enthusiasm and a sense of humor. I am computer-literate and am always keen to learn something new.
+Hi there 👋 I'm an IT Student with passion of Software Development 😇. I'm a confident communicator, I integrate easily into teams, though I am equally happy to work alone. 🤗 I am a quick, logical thinker with an analytical mind and enjoy the stimulation of a challenge 💪. I like variety and am adaptable in different situations, to which I respond with enthusiasm and a sense of humor. I am always keen to learn something new 👌.
 
 
 <!--
