@@ -1,4 +1,5 @@
-Hi there 👋 I'm an IT Student with passion of Software Development 😇. I'm a confident communicator, I integrate easily into teams, though I am equally happy to work alone. 🤗 I am a quick, logical thinker with an analytical mind and enjoy the stimulation of a challenge 💪. I like variety and am adaptable in different situations, to which I respond with enthusiasm and a sense of humor. I am always keen to learn something new 👌.
+<h1 align="center"> Hi there 👋 </h1>
+I'm an IT Student with passion of Software Development 😇. I'm a confident communicator, I integrate easily into teams, though I am equally happy to work alone. 🤗 I am a quick, logical thinker with an analytical mind and enjoy the stimulation of a challenge 💪. I like variety and am adaptable in different situations, to which I respond with enthusiasm and a sense of humor. I am always keen to learn something new 👌.
 
 
 <!--
@@ -7,7 +8,7 @@ Hi there 👋 I'm an IT Student with passion of Software Development 😇. I'm a
 Here are some ideas to get you started:
 -->
 
-
+## More on me 
  - 🔭 I’m currently working on Prison management system
  - 🌱 I’m currently learning JavaScript
  - 👯 I’m looking to collaborate on Django project
