@@ -18,7 +18,14 @@ Here are some ideas to get you started:
  - 😄 Pronouns: He
  - ⚡ Fun fact: Besides coding, I have a passion for reading and found a way to subtly integrate it into this project!"
 
+# 🏆 GitHub Achievements 🏆
+<br>
+| ![Pull Shark](/Media/Badges/Pull-Shark/PNG/PullShark.png)     | Pull Shark  | Opened a pull request that has been merged | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td align="center"><img src="/Media/Badges/Pull-Shark/PNG/PullShark.png" width="60px"></td>   <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Pull-Shark/PNG/PullShark_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td>  <td align="center">16</td>  <td align="center">128</td>  <td align="center">1024</td>  </tr>   </tbody>  </table>      |
+| ![Galaxy Brain](/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png) | Galaxy Brain | Answered a discussion<br>(got an accepted answer) | <table>  <thead>  <tr>  <th>DEFAULT</th> <th>BRONZE</th>  <th>SILVER</th>  <th>GOLD</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" width="60px"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Bronze.png" width="60px" align="center"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Silver.png" width="60px"></td>  <td><img src="/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain_Gold.png" width="60px"></td>  </tr>  <tr>  <td align="center">2</td> <td align="center">8</td>  <td align="center">16</td>  <td align="center">32</td>  </tr>   </tbody>  </table>
+| ![YOLO](/Media/Badges/YOLO/PNG/YOLO_Badge.png)                 | YOLO        | Merged a pull request without a review | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/YOLO/PNG/YOLO_Badge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
+| ![Public Sponsor](/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png)                 | Public Sponsor        | Sponsored an open source contributor through [GitHub Sponsors](https://github.com/sponsors) | <table>  <thead>  <tr>  <th>DEFAULT</th>  </tr>  </thead>  <tbody>  <tr>  <td><img src="/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" width="60px"></td> </tr>  <tr>  <td align="center">1</td> </tr>   </tbody>  </table> |
 
+</br>
 
 # My GitHub Stats
 
