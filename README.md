@@ -14,7 +14,7 @@ Here are some ideas to get you started:
  - 👯 I’m looking to collaborate on Django project
  - 🤔 I’m looking for help with JavaScript Developer
  - 💬 Ask me about Django
- - 📫 How to reach me: https://www.bellofolio.netlify.app
+ - 📫 How to reach me: www.about.me/belloyusuf
  - 😄 Pronouns: He
  - ⚡ Fun fact: Besides coding, I have a passion for reading and found a way to subtly integrate it into this project!"
 
