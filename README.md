@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 
 ## More on me 
- - 🔭 I’m currently working on Prison management system
+ - 🔭 I’m currently working on Student Management System (SMS Kit)
  - 🌱 I’m currently learning JavaScript
  - 👯 I’m looking to collaborate on Django project
  - 🤔 I’m looking for help with JavaScript Developer
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
-![Rest](https://img.shields.io/badge/Rest-CC6699?logo=djangorest&logoColor=white&style=for-the-badge)
+![Django REST](https://img.shields.io/badge/Rest-CC6699?logo=djangorest&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/python-663399?logo=gatsby&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-E10098?logo=msql&logoColor=white&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite%23-239120?logo=sqlite&logoColor=white&style=for-the-badge)
