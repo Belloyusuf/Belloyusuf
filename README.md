@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 
 ## More on me 
  - 🔭 I’m currently working on Student Management System (BEESKUL)
- - 🌱 I’m currently learning PHP
+ - 🌱 I’m currently learning Java
  - 👯 I’m looking to collaborate on Django project
- - 🤔 I’m looking for help with Django Dev
+ - 🤔 I’m looking for help with Java Dev
  - 💬 Ask me about Django
  - 📫 How to reach me: www.about.me/belloyusuf
  - 😄 Pronouns: He
